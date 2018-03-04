@@ -7,11 +7,11 @@ Author: [Vladislav Severin](http://vsimdevel.ru/)
 
 How to use React Starter App
 ----------------------------------
-1. [Download](https://github.com/Mikees23/Webpack-React-Babel.git) React Starter App from GitHub;
-2. Install NodeJS;
-3. npm start;
-4. Profit;
+1. [Download](https://github.com/Mikees23/Webpack-React-Babel.git) React Starter App from GitHub
+2. Install NodeJS
+3. npm start
+4. Profit
 
 How to use Production Mode
 ----------------------------------
-1. npm run build.
+1. npm run build
